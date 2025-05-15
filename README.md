@@ -37,8 +37,8 @@ To implement a basic player controller using the Character class in Unreal Engin
 - Set the HUD widget in the Game Mode’s BeginPlay using `Create Widget` and `Add to Viewport`.
 
 ## Output
+![Screenshot 2025-05-09 105709](https://github.com/user-attachments/assets/5bf59f88-1174-41fa-ac58-494b9bfb590f)
 
-![21cd18e5-9ec4-4564-924c-8e07f8b1b762](https://github.com/user-attachments/assets/b5a5b22e-1e24-4d4b-a100-373233dcfab6)
 
 ![9a6c0693-3ee8-4bd8-94a7-09de2a134f1c](https://github.com/user-attachments/assets/5b28f376-6367-4cc8-aee3-3e7628045efe) 
 
